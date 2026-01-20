@@ -1,5 +1,0 @@
-applications:
-  - name: eco-mart
-    memory: 128M
-    command: python ecomart.py
-    random-route: true
